@@ -372,7 +372,7 @@
 }
 
 .services h1 {
-  background-color: #4b0082;
+  background-color: blueviolet;
   background: linear-gradient(to right, #4b0082 0%, blueviolet 50%, blue 100%);
   background-size: 100%;
   margin-bottom: 5rem;
@@ -420,6 +420,7 @@
 .services h2 {
   position: absolute;
   top: 350px;
+  text-align: center;
   left: 30px;
 }
 
